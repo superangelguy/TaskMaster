@@ -68,12 +68,6 @@ For detailed documentation about the platform:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
-
-- Email: support@taskmaster.com
-- Help Center: [help.taskmaster.com](https://help.taskmaster.com)
-- Documentation: [docs.taskmaster.com](https://docs.taskmaster.com)
-
 ## ⭐ Donate
 
 - Cashapp:
