@@ -61,7 +61,7 @@ npm run build
 
 For detailed documentation about the platform:
 - [Platform Overview](./Overview.md)
-- [API Documentation](./docs/api.md) [Coming Soon]
+- [API Documentation](./docs/api.md)
 - [Development Guide](./docs/development.md) [Coming Soon]
 
 ## 🤝 Contributing
