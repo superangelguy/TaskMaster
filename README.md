@@ -42,7 +42,8 @@ npm run build
 
 ## 📱 Screenshots
 
-[Coming Soon]
+![image](https://github.com/user-attachments/assets/ae0fe696-18db-45fb-8701-9f48f649bce6)
+
 
 ## 🔒 Security
 
