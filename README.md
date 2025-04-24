@@ -64,14 +64,6 @@ For detailed documentation about the platform:
 - [API Documentation](./docs/api.md)
 - [Development Guide](./docs/development.md)
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -82,12 +74,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Help Center: [help.taskmaster.com](https://help.taskmaster.com)
 - Documentation: [docs.taskmaster.com](https://docs.taskmaster.com)
 
-## ⭐ Core Team
+## ⭐ Donate
 
-- Project Lead: [Name]
-- Frontend Development: [Name]
-- UX Design: [Name]
-- Quality Assurance: [Name]
+- Cashapp:
+- Venmo:
+- Paypal:
+- Bitcoin:
 
 ---
 Made with ❤️ by the TaskMaster Team 
