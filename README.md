@@ -70,10 +70,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Donate
 
-- Cashapp:
-- Venmo:
-- Paypal:
-- Bitcoin:
-
+- Cashapp:userunknown46
 ---
 Made with ❤️ by the TaskMaster Team 
