@@ -70,6 +70,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Donate
 
-- Cashapp:userunknown46
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-ff5e5b?logo=kofi&logoColor=white)](https://ko-fi.com/superangelguy)
 ---
 Made with ❤️ by the TaskMaster Team 
